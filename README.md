@@ -8,3 +8,4 @@
 6. Crear dos input de números y un botón, al pulsar el botón, mostrar en un alert quien es el mayor de los dos.
 7. Crear un botón que al pulsarlo genere una lista de 10 números aleatorios en un select vacio. Al pulsar de nuevo, se reseteara la lista.7. Crear un botón que al pulsarlo genere una lista de 10 números aleatorios en un select vacio. Al pulsar de nuevo, se reseteara la lista.
 8. Dado un input y un boton, escribir nombres de personas (no controlamos nada de momento) y lo mostramos en una lista desordenada.
+9. Lee tres notas de un estudiante, calcula su promedio e indica si esta suspendido o aprobado.Las notas van de 0 a 10, los estudiantes aprueban a partir de 5.
