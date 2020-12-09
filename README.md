@@ -10,3 +10,4 @@
 8. Dado un input y un boton, escribir nombres de personas (no controlamos nada de momento) y lo mostramos en una lista desordenada.
 9. Lee tres notas de un estudiante, calcula su promedio e indica si esta suspendido o aprobado.Las notas van de 0 a 10, los estudiantes aprueban a partir de 5.
 10. Realizar un programa de una tienda de coches; Si el coche a la venta es un ford fiesta, su descuento sera del 5%. Si el coche en venta es un ford focus, su descuento sera de un 10%.
+11. El usuario debera escoger un color y este sera aplicado al espacio destinado para ello.

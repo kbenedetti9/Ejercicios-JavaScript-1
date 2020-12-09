@@ -10,5 +10,6 @@ function calcularDescuento() {
     }
 
     consultaDescuento.innerHTML = "<h3> Su descuento es de " + descuento + "</h3>";
-  
+    // document.write(`<h3>Su descuento es de ${descuento} </h3>`) Otra opcion de agregar etiqueta a html
+
 }
